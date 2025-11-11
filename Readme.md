@@ -5,8 +5,11 @@ The game features sound effects, scoring, and a replay option!
 
 Features:
 🌟 Game logic — movements, collisions, states, boundaries, scores
+
 🌟 Multiple enemies with random spawning and independent motion
+
 🌟 Sound effects + background music with pygame.mixer
+
 🌟 Smooth animations and clean UI
 
 Game Overview:
@@ -15,5 +18,6 @@ Game Overview:
 - Each enemy destroyed increases your score.
 - The game ends when any enemy reaches too close to your ship.
 - After Game Over, the final score is shown and you can play again.
+
 
 ![img.png](img.png)
