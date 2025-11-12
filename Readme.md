@@ -1,6 +1,6 @@
 ## Space Invader game
-A classic Space Invaders clone built using Python and Pygame.
-You control a spaceship that can move left and right and shoot bullets to destroy incoming enemies before they reach you.
+A classic Space Invaders game built using Pygame, Python.
+The user controls a spaceship that can move left and right and shoot bullets to destroy incoming enemies before they reach you.
 The game features sound effects, scoring, and a replay option!
 
 ### Features:
@@ -22,4 +22,5 @@ The game features sound effects, scoring, and a replay option!
 
 
 ![img.png](img.png)
+
 
